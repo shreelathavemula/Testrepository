@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="263146" started-at="2020-05-29T08:56:00Z" finished-at="2020-05-29T09:00:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="263146" started-at="2020-05-29T08:56:00Z" finished-at="2020-05-29T09:00:23Z">
+      <class name="mainScripts.MainScript_mylearning">
+        <test-method status="PASS" signature="Open()[pri:0, instance:mainScripts.MainScript_mylearning@239963d8]" name="Open" is-config="true" duration-ms="198970" started-at="2020-05-29T14:26:00Z" finished-at="2020-05-29T14:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open -->
+        <test-method status="PASS" signature="mylearning(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:mainScripts.MainScript_mylearning@239963d8]" name="mylearning" duration-ms="63046" started-at="2020-05-29T14:29:19Z" data-provider="Datasheet" finished-at="2020-05-29T14:30:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Frankfurt]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[London]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[June]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[First Class]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Blue Skies Airlines]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mylearning -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mainScripts.MainScript_mylearning@239963d8]" name="tearDown" is-config="true" duration-ms="486" started-at="2020-05-29T14:30:22Z" finished-at="2020-05-29T14:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- mainScripts.MainScript_mylearning -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

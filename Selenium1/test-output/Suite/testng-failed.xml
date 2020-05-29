@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="mainScripts.MainScript_mylearning">
+        <methods>
+          <include name="mylearning" invocation-numbers="0"/>
+          <include name="Open"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- mainScripts.MainScript_mylearning -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
